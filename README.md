@@ -1,2 +1,2 @@
-# pubg
+# pubg - an awesome game
 ggg
